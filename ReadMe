@@ -1,0 +1,8 @@
+In this Java Project you can find implementation of two privacy-preserving protocols for set operations. Set Union and Set Intersection.
+Both of them are Using Paillier encryption scheme as good cipher with additional homomorphic properties.
+ 
+There are three simulation classes which show the use of the cipher and the protocols
+ 
+This project was created as part of an assignment for Privacy and Enhancing Technologies in University of Twente
+
+
